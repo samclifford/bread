@@ -13,7 +13,7 @@ Notes: I usually just halve this and do a single loaf
 * 115g white baker's flour
 * 350g whole wheat baker's flour
 * 10g salt
-* 5g fresh yeast (or 1/2 tsp instant yeast per loaf)
+* 5g fresh yeast (or 1 tsp instant yeast)
 * 230g water at 37C
 * 340g white starter at 100% hydration
 
