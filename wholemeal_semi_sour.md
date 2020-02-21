@@ -33,3 +33,8 @@ Notes: I usually just halve this and do a single loaf
 10. The loaf is done when you tap the bottom and it sounds like a drum. Allow to cool completely before slicing, as cutting too early causes the steam to escape and dries the bread out.
 
 ### Stand mixer (not a food processor)
+
+1. Put everything in the stand mixer, mix on slow for 4 minutes, medium-high for 6 minutes.
+2. Oil a container (or large bowl) and let dough rest for 60 minutes.
+3. Knock back dough by stretching into a rectangle three times as wide as it is tall and fold over. Put back in container for 60 minutes.
+4. Continue from step 5 above.
